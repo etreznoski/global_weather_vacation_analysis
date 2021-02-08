@@ -1,13 +1,12 @@
 # global_weather_vacation_analysis
-Uses Open Weather API and Google Places API
-The following project analysed weather measurements from 571 randomly generated
+Using the Open Weather API the following project analysed weather measurements from 571 randomly generated
 cities accross the globe. Maximum temperature, humidity, cloudiness and wind speed measurements were used.
 
-The data showed that cities closer to the equater have a higher maximum temperature.
+The data showed that cities closer to the equator have a higher maximum temperature.
 The further from the equater a city is then the lower maximum temperature that city is likely to have. 
-The scatter plot depicting city latitude and maximum temperature shows that cities from -40 latitude to about 15 latitude have higher maximun temperature than cities further away.
+The scatter plot depicting city latitude and maximum temperature shows that cities from -40 latitude to about 15 latitude have higher maximum temperature than cities further away.
 
-When cities were divided into southern adn northern hemisperes for linear regression, the northern hemisphere showed a clear correlation between proximity to the equator and maximum temperature. The southern hemisphere data also showed that cities closer the the equator tend to have higher maximum temperatures but the trend was much less defined.
+When cities were divided into southern and northern hemisperes for linear regression, the northern hemisphere showed a clear correlation between proximity to the equator and maximum temperature. The southern hemisphere data also showed that cities closer the the equator tend to have higher maximum temperatures but the trend was much less defined.
 
 The other measurement taken (wind speed, humidity, and cloudiness) showed only weak correlations if any.
 
