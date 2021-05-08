@@ -1,5 +1,5 @@
 # global_weather_vacation_analysis
-Using the Open Weather API the following project analysed weather measurements from 571 randomly generated
+Using the Open Weather API the following project analyzed weather measurements from 571 randomly generated
 cities accross the globe. Maximum temperature, humidity, cloudiness and wind speed measurements were used.
 
 The data showed that cities closer to the equator have a higher maximum temperature.
